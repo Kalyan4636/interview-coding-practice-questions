@@ -1,0 +1,91 @@
+1. What Is Algorithm?
+2. Why We Need To Do Algorithm Analysis?
+3. What Are The Criteria Of Algorithm Analysis?
+4. What Is Asymptotic Analysis Of An Algorithm?
+5. What Are Asymptotic Notations?
+6. Briefly Explain The Approaches To Develop Algorithms?
+7. Give Some Examples Greedy Algorithms?
+8. What Are Some Examples Of Divide And Conquer Algorithms?
+9. What Are Some Examples Of Dynamic Programming Algorithms?
+10. What Is Linear Searching?
+11. What Is Binary Search?
+12. What Is Bubble Sort ?
+13. Tell Me Something About ‘insertion Sort’?
+14. What Is Selection Sort?
+15. How Insertion Sort And Selection Sorts Are Different?
+16. What Is Merge Sort And How It Works?
+17. What Is Shell Sort?
+18. How Quick Sort Works?
+19. What Is A Graph?
+20. How Depth First Traversal Works?
+21. How Breadth First Traversal Works?
+22. What is a Tree?
+23. What Is A Binary Tree?
+24. What Is Tower of Hanoi problem?
+25. State Recursion and Its Different Types?
+26. Define String In An Algorithmic Notation And An Example To Support It?
+27. How to Find Median of a Bst?
+28. What Is The General Strategy For Markov Algorithm?
+29. What Is Diffie-hellman problem in algorithms?
+30. What Is The Goal Of The Shortest Distance Algorithm?
+31. What Is A Backtracking Algorithm?
+32. What Is Best-first Search Algorithm?
+33. Define a Brute-force Algorithm. Give an Example?
+34. Explain about the Algorithm Ord words?
+35. How to find if two given rectangles overlap in problem solving?
+36. How to count inversions in a sorted array?
+37. How to write an efficient method to calculate x raise to the power n?
+38. Explain what is Space complexity of insertion sort algorithm?
+39. Explain how encryption algorithm works?
+40. Explain the code of inorder tree traversal?
+41. What is strassens matrix multiplication problem?
+42. What is the Procedure of Strassen matrix multiplication
+43. Explain the formula of strassens matrix problem?
+44. Write the algorithm for strassens multiplication in the form of psudocode?
+45. What is decrease and conquer algorithm?
+46. What is the main motive of decrease and conquer algorithm?
+47. What is decrease and conquer algorithm?
+48. Explain the analysis and complexity of decrease and conquer algorithm?
+49. Explain the code of DFS in algorithm
+50. Explain the code of BFS in algorithm?
+51. What is the Space and time complexity of BFS algorithm?
+52. What is the space and time complexity of DFS algorithm?
+53. What is the difference between BFS and DFS algorithms?
+54.What is topological sorting?
+55. Explain topological sorting with example?
+56. Explain the psudocode of topological sorting?
+57. Explain the technique of transform and conquer?
+58. What is presorting technique explain? Tell the cost of calculation?
+59. Write the psudocode on presorting?
+60. What is heap Sort?
+61. What are the properties of heap sort?
+62. Explain the psudocode of heap sorting?
+63. What is warshall algorithm?
+64. Explain the psudocode of warshall algorithm?
+65. What is the time and space complexity of warshall algorithm?
+66. What is a ford’s Algorithm?
+67. Explain the psudocode of fords algorithm?
+68. What is the time complexity of fords algorithm?
+69. What is knapsack problem in algorithm?
+70. Explain the algorithm psudocode of knapsack problem?
+71. What is the time complexity of knapsack problem?
+72. What is greedy technique in algorithm?
+73. Which algorithms of complexity belongs to greedy technique?
+74. Who invented greedy algorithm?
+75. What is prims algorithm?
+76. Explain the psudocode for prims algorithm?
+77. Explain the steps for prims algorithm?
+78. Define kruskal’s algorithm?
+79. Explain the steps in kruskal’s algorithm?
+80. Explain the psudocode of kruskal’s algorithm?
+81. What is Dijkastra’s algorithm who invented this?
+82. What is the time complexity of dijkastra’s algorithm?
+83. Explain the psudocode of Dijkastra’s algorithm?
+84. Explain Huffman trees?
+85. Explain the logical steps in Huffman tree construction?
+86. What is lower bound argument in algorithm?
+87. What is upper bound in an algorithm?
+88. What is branch and bound in an algorithm?
+89. What is computational model in algorithm?
+90. What is list ranking in algorithms?
+91. What is page ranking in algorithm?
