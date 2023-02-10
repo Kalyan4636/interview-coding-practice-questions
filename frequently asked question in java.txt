@@ -1,0 +1,13 @@
+1) Write a Java Program to reverse a string without using String inbuilt function.
+2) Write a Java Program to reverse a string without using String inbuilt function reverse().
+3) Write a Java Program to swap two numbers using the third variable.
+4) Write a Java Program to swap two numbers without using the third variable.
+
+Q #5) Write a Java Program to count the number of words in a string using HashMap.
+6) Write a Java Program to iterate HashMap using While and advance for loop.
+7) Write a Java Program to find whether a number is prime or not.
+8) Write a Java Program to find whether a string or number is palindrome or not.
+9) Write a Java Program for the Fibonacci series.
+9) Write a Java Program for the Fibonacci series.
+10) Write a Java Program to iterate ArrayList using for-loop, while-loop, and advance for-loop.
+11) Write a Java Program to demonstrate an explicit wait condition check.
